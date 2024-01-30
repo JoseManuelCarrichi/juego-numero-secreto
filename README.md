@@ -1,2 +1,17 @@
-# juego-numero-secreto
-Este repositorio contiene la implementación del juego del número secreto, desarrollado como parte del curso de lógica de programación del Programa ONE (Oracle Next Education) con Alura Latam.
+# Juego del Número Secreto
+
+## Descripción del Juego
+El objetivo es adivinar un número aleatorio generado por la computadora en un máximo de tres intentos.
+
+## Tecnologías Utilizadas
+- **HTML:** Estructura básica de la página.
+- **CSS:** Estilos para una experiencia visual agradable.
+- **JavaScript:** Lógica de programación para generar el número secreto, gestionar los intentos del jugador y proporcionar retroalimentación.
+
+## Instrucciones para Jugar
+1. Abre el [enlace](https://github.com/JoseManuelCarrichi/juego-numero-secreto) en tu navegador web.
+2. Ingresa tu suposición en el campo correspondiente.
+3. Recibe retroalimentación sobre si tu suposición es demasiado alta, demasiado baja o correcta.
+4. ¡Intenta adivinar el número secreto en un máximo de tres intentos!
+
+**¡Diviértete jugando y explorando el código!**
